@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LanguageDemo</string>
+
+    <string name="multi_language">多語言</string>
+
+    <string name="setting">設置</string>
+
+    <string name="system_language">系統語言：</string>
+
+    <string name="current_language">當前語言：</string>
+
+    <string name="other_pages">其他頁面</string>
+
+    <string name="choose_lang">語言選擇</string>
+
+    <string name="system_lang">系統語言</string>
+
+    <string name="chinese">中文</string>
+
+    <string name="english">英文</string>
+
+    <string name="traditional_chinese">中文繁體</string>
+</resources>
